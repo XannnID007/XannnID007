@@ -1,22 +1,22 @@
 # **Hello Everyone!** 
 
-- 👋 Hi, I’m @XannnID007 
-- 👀 I’m interested in Software engineer
+- 👋 Hi, I’m Muhammad Ihsan 
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Cloud computing
 - 💞️ I’m looking to collaborate on Dicoding Academy
 - 📫 How to reach me [Whatsapp: 087804819134]
 
 # **My Profile** 
 
-Perkenalkan nama saya **Muhammad Ihsan**.\
+Perkenalkan nama saya **Muhammad Ihsan**
 
-Saya seorang **Mahasiswa** di [STMIK Mardira Indonesia](https://www.stmik-mi.com/).\
+Saya seorang **Mahasiswa** di [STMIK Mardira Indonesia](https://www.stmik-mi.com/)
 
-Saya mengikuti program MSIB Bacth 5 di [Bangkit with Google, GoTo, and Traveloka]
+Saya mengikuti program MSIB Bacth 5 di [Bangkit 2023 Batch 2 with Google, GoTo, and Traveloka]
 
 Saya mengikuti kelas di [Dicoding Academy](https://www.dicoding.com/academies/)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ihsan-468937255/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ihsan07/) saya.
 
 <p align="left">
 <a href="https://github.com/XannnID007">
