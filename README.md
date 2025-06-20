@@ -10,7 +10,9 @@
 
 Perkenalkan nama saya **Muhammad Ihsan**
 
-Saya seorang **Laravel Web Developer** di [STMIK Mardira Indonesia](https://www.stmik-mi.com/)
+Saya seorang **Laravel Web Developer** 
+
+Saya Mahasiswa jurusan teknik informatika di [STMIK Mardira Indonesia](https://www.stmik-mi.com/)
 
 Saya mengikuti program MSIB Batch 5 di [Bangkit 2023 Batch 2 with Google, GoTo, and Traveloka]
 
